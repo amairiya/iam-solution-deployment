@@ -5,7 +5,7 @@ Creating a tailored Keycloak image for your Identity and Access Management (IAM)
 clone code source :
 
 ```sh
-git clone https://github.com/M-AMAIRI/iam-solution-deployment.git
+git clone https://github.com/amairiya/iam-solution-deployment.git
 cd iam-solution-deployment
 ```
 
